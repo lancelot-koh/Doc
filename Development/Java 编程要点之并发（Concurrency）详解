@@ -1202,3 +1202,5 @@ int r = ThreadLocalRandom.current() .nextInt(4, 77);
 
 参考
 更多内容可移步至笔者所著开源书《Java 编程要点》
+
+https://www.ibm.com/developerworks/cn/java/j-concurrent/
